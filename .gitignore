@@ -1,0 +1,22 @@
+# Python cache files (compiled bytecode)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment folders (where libraries are stored)
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit local configurations
+.streamlit/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Configuration and environment variables containing secrets
+.env
+*.env
